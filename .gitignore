@@ -1,0 +1,13 @@
+# Ignorar ambiente virtual e arquivos grandes
+venv/
+*.zip
+*.rar
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+.DS_Store
